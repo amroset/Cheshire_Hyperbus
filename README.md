@@ -1,8 +1,8 @@
 # Cheshire HyperBus Integration and Performance Analysis
 
-This project explores the integration of **HyperBus / HyperRAM memory** into the **Cheshire RISC-V SoC** and evaluates its architectural and performance implications compared to traditional AXI-based memory hierarchies.
+This project investigates the integration of **HyperBus / HyperRAM memory** into **Cheshire**, a modular, open-source **RISC-V System-on-Chip (SoC)**, with the goal of evaluating architectural trade-offs and performance implications in modern embedded systems.
 
-The work was carried out as a **system-level hardware/software co-design project**, with a strong focus on memory subsystems, interconnects, and performance characterization, and is intended to be suitable as a **Master’s thesis project or advanced SoC design portfolio**.
+The work focuses on memory subsystem design, interconnect behavior, and performance optimization, and was developed with the scope of a **Semester Thesis** project during my Master's degree at **ETH Zurich**.
 
 ---
 
