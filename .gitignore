@@ -1,0 +1,25 @@
+# Simulation / EDA artifacts
+vsim/
+work/
+*.wlf
+*.qdb
+*.qpg
+*.qtl
+*.tfdb
+transcript
+
+# Logs
+*.log
+
+# OS junk
+.DS_Store
+
+# Secrets
+github_key
+github_key.pub
+
+# Build output
+build/
+
+#Bender
+.bender/

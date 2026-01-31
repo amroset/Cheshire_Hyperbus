@@ -1,0 +1,752 @@
+# Current time Tue Oct 14 14:34:34 2025
+# Program = vsim
+# Id = "2022.3_1"
+# Version = "2022.08"
+# Date = "Aug 12 2022"
+# Platform = "linux_x86_64"
+# Signature = 25fd9f1979c978b4e9ba44f83045af7f
+# 0    0x00000000039cc362: '<unknown (@0x39cc362)>'
+# 1    0x0000000000961824: '<unknown (@0x961824)>'
+# 2    0x00000000009b976e: '<unknown (@0x9b976e)>'
+# 3    0x00000000009bad25: '<unknown (@0x9bad25)>'
+# 4    0x00007fefe63552fc: '/scratch/phsauter/sem25h20/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x000000000078bbc8: '<unknown (@0x78bbc8)>'
+# 6    0x00000000009b9979: '<unknown (@0x9b9979)>'
+# 7    0x00000000009bad25: '<unknown (@0x9bad25)>'
+# 8    0x00007fefe4a9c261: '/scratch/phsauter/sem25h20/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x000000000078bbc8: '<unknown (@0x78bbc8)>'
+# 10   0x00000000009b9979: '<unknown (@0x9b9979)>'
+# 11   0x00000000009bad25: '<unknown (@0x9bad25)>'
+# 12   0x00007fefe4a7e5e2: '/scratch/phsauter/sem25h20/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x000000000078bbc8: '<unknown (@0x78bbc8)>'
+# 14   0x00000000009b9979: '<unknown (@0x9b9979)>'
+# 15   0x00000000009bad25: '<unknown (@0x9bad25)>'
+# 16   0x00007fefe4a79e28: '/scratch/phsauter/sem25h20/tb/fixture_cheshire_hyperbus.sv:23'
+# 17   0x000000000078bbc8: '<unknown (@0x78bbc8)>'
+# 18   0x00000000009b9979: '<unknown (@0x9b9979)>'
+# 19   0x00000000009bad25: '<unknown (@0x9bad25)>'
+# 20   0x00007fefe4a6463f: '/scratch/phsauter/sem25h20/tb/cheshire_hyperbus_tb.sv:17'
+# 21   0x000000000078bbc8: '<unknown (@0x78bbc8)>'
+# 22   0x0000000000a49025: '<unknown (@0xa49025)>'
+# 23   0x0000000000a4cd11: '<unknown (@0xa4cd11)>'
+# 24   0x0000000000f4d509: '<unknown (@0xf4d509)>'
+# 25   0x0000000000f471cd: '<unknown (@0xf471cd)>'
+# 26   0x0000000003aa8c7d: '<unknown (@0x3aa8c7d)>'
+# 27   0x0000000003aad0d6: '<unknown (@0x3aad0d6)>'
+# 28   0x0000000003aae7c1: '<unknown (@0x3aae7c1)>'
+# 29   0x0000000003aaeb26: '<unknown (@0x3aaeb26)>'
+# 30   0x00000000011d1c49: '<unknown (@0x11d1c49)>'
+# 31   0x0000000003b4ea2f: '<unknown (@0x3b4ea2f)>'
+# 32   0x0000000003ba25a7: '<unknown (@0x3ba25a7)>'
+# 33   0x0000000003b65497: '<unknown (@0x3b65497)>'
+# 34   0x0000000003b65779: '<unknown (@0x3b65779)>'
+# 35   0x000000000393aa5d: '<unknown (@0x393aa5d)>'
+# 36   0x0000000000c2c3ac: '<unknown (@0xc2c3ac)>'
+# End of Stack Trace
+
+
+# Current time Tue Oct 21 14:37:53 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154ff: '<unknown (@0x49154ff)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe63fe3a0: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe4aeee97: '/scratch/sem25h20/SemProject/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe4ad0080: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe4acb1a1: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:23'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe4ab56cb: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Tue Oct 21 14:39:59 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154ff: '<unknown (@0x49154ff)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe63fe3a0: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe4aeee97: '/scratch/sem25h20/SemProject/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe4ad0080: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe4acb1a1: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:23'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe4ab56cb: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Tue Oct 21 14:49:27 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe617dbf0: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe486e617: '/scratch/sem25h20/SemProject/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe484f800: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe484a921: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:23'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe4834e4b: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Tue Oct 21 14:50:34 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe63fe420: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe4aeee97: '/scratch/sem25h20/SemProject/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe4ad0080: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe4acb1a1: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:23'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe4ab56cb: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Tue Oct 21 14:54:15 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe63fe420: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe4aeee97: '/scratch/sem25h20/SemProject/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe4ad0080: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe4acb1a1: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:23'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe4ab56cb: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Thu Oct 23 10:29:17 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe64fe830: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe4bef277: '/scratch/sem25h20/SemProject/.bender/git/checkouts/cheshire-d2a795cb7c0a50a5/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe4bd0460: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe4bcb5cf: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:27'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe4bb5b09: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sat Oct 25 16:37:02 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe7c02220: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe5d8086f: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe5d61940: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe5d58d28: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5d42a89: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sat Oct 25 16:48:50 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe89e4f50: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe651e9af: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe64ffa80: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe64f6e68: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe64e0bc9: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sat Oct 25 17:02:01 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe7c02370: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe5d8076f: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe5d61840: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe5d58c28: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5d42989: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sat Oct 25 17:04:54 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe7c02370: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe5d8076f: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe5d61840: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe5d58c28: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5d42989: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sat Oct 25 17:06:20 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe7c02370: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe5d8076f: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe5d61840: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe5d58c28: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5d42989: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sat Oct 25 17:09:52 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe7c02370: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe5d8076f: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe5d61840: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe5d58c28: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5d42989: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sun Oct 26 11:05:42 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154f4: '<unknown (@0x49154f4)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe7c02370: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe5d8076f: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe5d61840: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe5d58c28: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5d42989: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sun Oct 26 11:13:58 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154ff: '<unknown (@0x49154ff)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe6ff08f0: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe53b02ef: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe53913c0: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe53887a8: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5372509: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
+# Current time Sun Oct 26 11:19:53 2025
+# Program = vsim
+# Id = "2025.1_2"
+# Version = "2025.04"
+# Date = "Apr  7 2025"
+# Platform = "linux_x86_64"
+# Signature = 6bcf55e724784258003d68188eab5c7b
+# 0    0x00000000049154ff: '<unknown (@0x49154ff)>'
+# 1    0x0000000000acddf2: '<unknown (@0xacddf2)>'
+# 2    0x0000000000b2eeae: '<unknown (@0xb2eeae)>'
+# 3    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 4    0x00007fefe6ff1860: '/scratch/sem25h20/SemProject/.bender/git/checkouts/axi_riscv_atomics-0e3bc54386ba9993/src/axi_riscv_atomics_structs.sv:33'
+# 5    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 6    0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 7    0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 8    0x00007fefe53b037b: '/scratch/sem25h20/SemProject/deps/cheshire/hw/cheshire_soc.sv:160'
+# 9    0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 10   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 11   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 12   0x00007fefe53913c0: '/scratch/sem25h20/SemProject/src/cheshire_hyperbus_soc.sv:166'
+# 13   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 14   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 15   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 16   0x00007fefe53887a8: '/scratch/sem25h20/SemProject/tb/fixture_cheshire_hyperbus.sv:133'
+# 17   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 18   0x0000000000b2f06a: '<unknown (@0xb2f06a)>'
+# 19   0x0000000000b305a5: '<unknown (@0xb305a5)>'
+# 20   0x00007fefe5372509: '/scratch/sem25h20/SemProject/tb/cheshire_hyperbus_tb.sv:18'
+# 21   0x00000000008c1e98: '<unknown (@0x8c1e98)>'
+# 22   0x0000000000be2305: '<unknown (@0xbe2305)>'
+# 23   0x0000000000be72c4: '<unknown (@0xbe72c4)>'
+# 24   0x00000000011a4179: '<unknown (@0x11a4179)>'
+# 25   0x000000000119dc5d: '<unknown (@0x119dc5d)>'
+# 26   0x0000000004a306fd: '<unknown (@0x4a306fd)>'
+# 27   0x0000000004a34b56: '<unknown (@0x4a34b56)>'
+# 28   0x0000000004a36241: '<unknown (@0x4a36241)>'
+# 29   0x0000000004a365a6: '<unknown (@0x4a365a6)>'
+# 30   0x00000000014448f1: '<unknown (@0x14448f1)>'
+# 31   0x0000000004ad64af: '<unknown (@0x4ad64af)>'
+# 32   0x0000000004b2a027: '<unknown (@0x4b2a027)>'
+# 33   0x0000000004aecf17: '<unknown (@0x4aecf17)>'
+# 34   0x0000000004aed1f9: '<unknown (@0x4aed1f9)>'
+# 35   0x00000000048e511d: '<unknown (@0x48e511d)>'
+# 36   0x0000000000e0f984: '<unknown (@0xe0f984)>'
+# End of Stack Trace
+
+
